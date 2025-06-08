@@ -129,5 +129,3 @@ If you encounter any issues or have questions about Cash Coach Companion, please
 ## You can use this link to access the app:
 https://cash-coach-companion.lovable.app/
 
-##Access the database schema through:
-supabase-schema-hjiiuskshgkxeixxqxok.png
